@@ -34,6 +34,7 @@ body
 
 #container
 {
+    background-color: white;
     width: 70%;
     padding: 0;
     text-align: left;
@@ -47,7 +48,7 @@ body
 }
 #post{
     padding: 1em;
-    color: white;
+    color: #777;
 }
 #footer{
     background: #777;
